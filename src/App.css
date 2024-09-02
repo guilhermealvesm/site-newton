@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'RightGrotesk-NarrowFine';
+  src: url('./fonts/RightGrotesk-NarrowFine.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RightGrotesk-TightBlack';
+  src: url('./fonts/RightGrotesk-TightBlack.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
